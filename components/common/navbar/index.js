@@ -1,4 +1,4 @@
- import Link from 'next/Link';
+ import Link from 'next/link';
 const NavBar = ()=> {
     return (
         <section>
@@ -14,8 +14,8 @@ const NavBar = ()=> {
                                 <a  className="font-medium mr-8 text-gray-500 hover:text-gray-900">Marketplace</a>
                             </Link>
 
-                            <Link href="/">
-                                <a  className="font-medium mr-8 text-gray-500 hover:text-gray-900">Blogs</a>
+                            <Link href="/articles/create">
+                                <a  className="font-medium mr-8 text-gray-500 hover:text-gray-900">Create Blog</a>
                             </Link>
                         </div>
                         <div>
