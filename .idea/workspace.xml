@@ -6,15 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ecc2fd68-3d7c-483d-a5ba-2cc7681f58a5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/article/article-item/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/article/article-item/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/article/list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/article/list/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/common/footer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/common/footer/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/common/hero/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/common/hero/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/common/navbar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/common/navbar/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/articles/[index].js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/articles/[slug].js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664574651982</updated>
       <workItem from="1664574655712" duration="844000" />
-      <workItem from="1664640839791" duration="9445000" />
+      <workItem from="1664640839791" duration="10727000" />
     </task>
     <servers />
   </component>
