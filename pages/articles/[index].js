@@ -5,14 +5,14 @@ import {BaseLayout} from "@components/layout";
 
 export default function Blog() {
     return (
-     <>
-         <div className={"py-4"}>
-             <HeroBlog/>
-         </div>
-         <KeyPoint/>
-         <Lecture lectures={lectures}/>
-         <Modal/>
-     </>
+        <>
+            <div className={"py-4"}>
+                <HeroBlog/>
+            </div>
+            <KeyPoint/>
+            <Lecture lectures={lectures}/>
+            <Modal/>
+        </>
     )
 }
 

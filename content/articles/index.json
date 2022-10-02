@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1",
+    "type": "Challenges",
+    "title": "The Long Payoff of the Ice Bucket Challenge",
+    "description": "The FDA approves AMX0035, the first ALS drug in five years, thanks to funding from the viral challenge",
+    "coverImage": "https://miro.medium.com/fit/c/400/268/1*jp3uX4PgmrDJ_KEIhsDz4w.jpeg",
+    "author": "Diego Arevalo",
+    "link": "https://newanddigital.medium.com/the-long-payoff-of-the-ice-bucket-challenge-b6ec8920eb89",
+    "slug": "challenge-test",
+    "wsl": [
+      "Challenges",
+      "New"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "2",
+    "type": "Earth",
+    "title": "What does Earth look like from across the Universe?",
+    "description": "From here on Earth, looking farther away in space means looking farther back in time. So what are distant Earth-watchers seeing",
+    "coverImage": "https://miro.medium.com/max/720/1*IpHUAVoxwrHShyezsbSenw.gif",
+    "author": "Ethan Siegel",
+    "link": "https://barrydredze.medium.com/zany-misadventures-in-identity-politics-rosh-hashanah-edition-1b0356ca3f27",
+    "slug": "palestine-conflicts",
+    "wsl": [
+      "Palestine Conflicts",
+      "War Information"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "3",
+    "type": "Leadership",
+    "title": "Three Rules of Solving Problems",
+    "description": "Tools for solving problems in a wide range of fields",
+    "coverImage": "https://miro.medium.com/fit/c/200/134/1*CPMEugrO3tDybHt4Y8jEwg.jpeg",
+    "author": "yonatanzunger",
+    "link": "https://medium.com/@yonatanzunger/three-rules-of-solving-problems-355944d34c9a",
+    "slug": "be-leader",
+    "wsl": [
+      "how to be a leader",
+      "growing"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "4",
+    "type": "History",
+    "title": "Ken Burns’ Message of Warning to America",
+    "description": "His new documentary The U.S. and the Holocaust isn’t just about the past.",
+    "coverImage": "https://miro.medium.com/fit/c/200/134/1*9cIdkm54RRazwgVVSKNfJA.png",
+    "author": "Micah Sifry",
+    "link": "https://academy.eincode.com/courses/the-complete-unity-guide-3d-beginner-to-rpg-game-dev-in-c",
+    "slug": "piece-history",
+    "wsl": [
+      "Fundamental History",
+      "Fundamentals and core concepts of History"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "5",
+    "type": "War",
+    "title": "Zany Misadventures in Identity Politics: Rosh Hashanah Edition",
+    "description": "We observed a new Hebrew calendar year, Rosh Hashanah, in this last Gregorian week of September 2022, hoping to be inscribed",
+    "coverImage": "https://miro.medium.com/max/720/1*5OhilNtujvAmjyPWO1LdUw.jpeg",
+    "author": "Barry Dredze",
+    "link": "https://barrydredze.medium.com/zany-misadventures-in-identity-politics-rosh-hashanah-edition-1b0356ca3f27",
+    "slug": "palestine-conflicts",
+    "wsl": [
+      "Palestine Conflicts",
+      "War Information"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "6",
+    "type": "Challenges",
+    "title": "The Long Payoff of the Ice Bucket Challenge",
+    "description": "The FDA approves AMX0035, the first ALS drug in five years, thanks to funding from the viral challenge",
+    "coverImage": "https://miro.medium.com/fit/c/400/268/1*jp3uX4PgmrDJ_KEIhsDz4w.jpeg",
+    "author": "Diego Arevalo",
+    "link": "https://newanddigital.medium.com/the-long-payoff-of-the-ice-bucket-challenge-b6ec8920eb89",
+    "slug": "challenge-test",
+    "wsl": [
+      "Challenges",
+      "New"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "7",
+    "type": "Leadership",
+    "title": "Three Rules of Solving Problems",
+    "description": "Tools for solving problems in a wide range of fields",
+    "coverImage": "https://miro.medium.com/fit/c/200/134/1*CPMEugrO3tDybHt4Y8jEwg.jpeg",
+    "author": "yonatanzunger",
+    "link": "https://medium.com/@yonatanzunger/three-rules-of-solving-problems-355944d34c9a",
+    "slug": "be-leader",
+    "wsl": [
+      "how to be a leader",
+      "growing"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "8",
+    "type": "History",
+    "title": "Ken Burns’ Message of Warning to America",
+    "description": "His new documentary The U.S. and the Holocaust isn’t just about the past.",
+    "coverImage": "https://miro.medium.com/fit/c/200/134/1*9cIdkm54RRazwgVVSKNfJA.png",
+    "author": "Micah Sifry",
+    "link": "https://academy.eincode.com/courses/the-complete-unity-guide-3d-beginner-to-rpg-game-dev-in-c",
+    "slug": "piece-history",
+    "wsl": [
+      "Fundamental History",
+      "Fundamentals and core concepts of History"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "9",
+    "type": "War",
+    "title": "Zany Misadventures in Identity Politics: Rosh Hashanah Edition",
+    "description": "We observed a new Hebrew calendar year, Rosh Hashanah, in this last Gregorian week of September 2022, hoping to be inscribed",
+    "coverImage": "https://miro.medium.com/max/720/1*5OhilNtujvAmjyPWO1LdUw.jpeg",
+    "author": "Barry Dredze",
+    "link": "https://barrydredze.medium.com/zany-misadventures-in-identity-politics-rosh-hashanah-edition-1b0356ca3f27",
+    "slug": "palestine-conflicts",
+    "wsl": [
+      "Palestine Conflicts",
+      "War Information"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "10",
+    "type": "Challenges",
+    "title": "The Long Payoff of the Ice Bucket Challenge",
+    "description": "The FDA approves AMX0035, the first ALS drug in five years, thanks to funding from the viral challenge",
+    "coverImage": "https://miro.medium.com/fit/c/400/268/1*jp3uX4PgmrDJ_KEIhsDz4w.jpeg",
+    "author": "Diego Arevalo",
+    "link": "https://newanddigital.medium.com/the-long-payoff-of-the-ice-bucket-challenge-b6ec8920eb89",
+    "slug": "challenge-test",
+    "wsl": [
+      "Challenges",
+      "New"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "11",
+    "type": "Leadership",
+    "title": "Three Rules of Solving Problems",
+    "description": "Tools for solving problems in a wide range of fields",
+    "coverImage": "https://miro.medium.com/fit/c/200/134/1*CPMEugrO3tDybHt4Y8jEwg.jpeg",
+    "author": "yonatanzunger",
+    "link": "https://medium.com/@yonatanzunger/three-rules-of-solving-problems-355944d34c9a",
+    "slug": "be-leader",
+    "wsl": [
+      "how to be a leader",
+      "growing"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "12",
+    "type": "History",
+    "title": "Ken Burns’ Message of Warning to America",
+    "description": "His new documentary The U.S. and the Holocaust isn’t just about the past.",
+    "coverImage": "https://miro.medium.com/fit/c/200/134/1*9cIdkm54RRazwgVVSKNfJA.png",
+    "author": "Micah Sifry",
+    "link": "https://academy.eincode.com/courses/the-complete-unity-guide-3d-beginner-to-rpg-game-dev-in-c",
+    "slug": "piece-history",
+    "wsl": [
+      "Fundamental History",
+      "Fundamentals and core concepts of History"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "13",
+    "type": "Earth",
+    "title": "What does Earth look like from across the Universe?",
+    "description": "From here on Earth, looking farther away in space means looking farther back in time. So what are distant Earth-watchers seeing",
+    "coverImage": "https://miro.medium.com/max/720/1*IpHUAVoxwrHShyezsbSenw.gif",
+    "author": "Ethan Siegel",
+    "link": "https://barrydredze.medium.com/zany-misadventures-in-identity-politics-rosh-hashanah-edition-1b0356ca3f27",
+    "slug": "palestine-conflicts",
+    "wsl": [
+      "Palestine Conflicts",
+      "War Information"
+    ],
+    "createdAt": ""
+  }
+]
