@@ -6,11 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ecc2fd68-3d7c-483d-a5ba-2cc7681f58a5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/article/list/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/article/list/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/common/navbar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/common/navbar/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/blog/hero/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/blog/hero/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/blog/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/blog/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/articles/[slug].js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/articles/[slug].js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +30,7 @@
     <option name="directoryName" value="pqnro81i" />
   </component>
   <component name="ProjectId" id="2FVQDSZbLCiGbsrbfmyNAqsyK3Z" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -66,7 +64,8 @@
       <option name="presentableId" value="Default" />
       <updated>1664574651982</updated>
       <workItem from="1664574655712" duration="844000" />
-      <workItem from="1664640839791" duration="13526000" />
+      <workItem from="1664640839791" duration="14174000" />
+      <workItem from="1664809164967" duration="3026000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,4 @@
-import {HeroBlog, KeyPoint, Lecture} from "@components/blog";
+import {HeroBlog, KeyPoint, Lecture, Read} from "@components/blog";
 import {Modal} from "@components/common";
 import {lectures} from "@utils/data";
 import {BaseLayout} from "@components/layout";
@@ -7,12 +7,11 @@ import {getAllArticles} from "@content/articles/fetcher";
 export default function Blog({article}) {
     return (
         <>
-            {article.title}
             <div className={"py-4"}>
-                <HeroBlog/>
+                <HeroBlog article={article}/>
             </div>
             <KeyPoint/>
-            <Lecture lectures={lectures}/>
+          <Read/>
             <Modal/>
         </>
     )
